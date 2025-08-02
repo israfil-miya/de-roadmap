@@ -19,6 +19,8 @@
 - [ ] Delta Lake — Delta Lake (Open-source Storage Layer)
 - [ ] Apache Airflow — Apache Airflow
 - [ ] SQLite — SQLite (Embedded SQL Database)
+- [ ] PostgreSQL — PostgreSQL (Open-source Relational Database)
+- [ ] MongoDB — MongoDB (NoSQL Document Database)
 - [ ] Excel — Microsoft Excel
 - [ ] Synapse — Azure Synapse Analytics
 - [ ] Power BI — Microsoft Power BI
