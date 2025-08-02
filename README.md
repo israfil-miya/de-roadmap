@@ -5,6 +5,33 @@
 - [ ] Python stack: pandas, NumPy
 - [ ] Total estimated cost for courses & certifications: $245
 
+## 🤖Core Data Engineering Stack (Azure)
+
+- [ ] SQL — Structured Query Language (SQL)
+- [ ] Data Factory — Azure Data Factory
+- [ ] Databricks — Azure Databricks (Databricks Unified Analytics Platform)
+- [ ] PySpark — Apache Spark Python API (PySpark)
+- [ ] Python — Python (Programming Language)
+- [ ] Dbt — dbt (data build tool)
+- [ ] Data Lake — Azure Data Lake Storage Gen 2
+- [ ] GitHub Actions — GitHub Actions (CI/CD Workflows)
+- [ ] Kafka — Apache Kafka
+- [ ] Terraform — HashiCorp Terraform
+- [ ] Azure Monitor — Azure Monitor
+- [ ] Delta Lake — Delta Lake (Open-source Storage Layer)
+- [ ] Apache Airflow — Apache Airflow
+- [ ] SQLite — SQLite (Embedded SQL Database)
+- [ ] Excel — Microsoft Excel
+- [ ] Synapse — Azure Synapse Analytics
+- [ ] Power BI — Microsoft Power BI
+- [ ] Snowflake — Snowflake Data Cloud
+- [ ] Spark SQL — Spark SQL (Structured Queries on Apache Spark)
+- [ ] Linux — GNU/Linux (Free and open-source Unix-like operating system)
+- [ ] Docker — Docker Engine (Containerization Platform)
+
+> [!NOTE]  
+> Few tools/languages/techs from above aren't included in the actual roadmap below, but they are *niche* required.
+
 
 ## 💫 Month 1: Foundations
 
