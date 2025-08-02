@@ -30,7 +30,7 @@
 - [ ] Docker — Docker Engine (Containerization Platform)
 
 > [!NOTE]  
-> Few tools/languages/techs from above aren't included in the actual roadmap below, but they are *niche* required.
+> Some tools and technologies listed above aren't included in the roadmap below, but they are niche and still necessary.
 
 
 ## 💫 Month 1: Foundations
