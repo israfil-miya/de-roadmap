@@ -1,7 +1,7 @@
 ## 📦 Backlog
 
-- [ ] [Data Engineer Roadmap 2025 (YouTube)](https://www.youtube.com/watch?v=v6vUOOa6S_I&t=1504s)
-- [ ] Total estimated cost for courses & certifications: $245
+- [Data Engineer Roadmap 2025 (YouTube)](https://www.youtube.com/watch?v=v6vUOOa6S_I&t=1504s)
+- Total estimated cost for courses & certifications: $245
 
 ## 🤖 Core Data Engineering Stack (Azure)
 
