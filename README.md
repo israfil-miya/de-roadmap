@@ -6,32 +6,35 @@
 ## 🤖 Core Data Engineering Stack (Azure)
 
 - [ ] SQL — Structured Query Language (SQL)
-- [ ] Data Factory — Azure Data Factory
-- [ ] Databricks — Azure Databricks (Databricks Unified Analytics Platform)
-- [ ] PySpark — Apache Spark Python API (PySpark)
-- [ ] Python — Python (Programming Language)
-- [ ] Dbt — dbt (data build tool)
-- [ ] Data Lake — Azure Data Lake Storage Gen 2
-- [ ] GitHub Actions — GitHub Actions (CI/CD Workflows)
-- [ ] Kafka — Apache Kafka
-- [ ] Terraform — HashiCorp Terraform
-- [ ] Azure Monitor — Azure Monitor
-- [ ] Delta Lake — Delta Lake (Open-source Storage Layer)
-- [ ] Apache Airflow — Apache Airflow
+- [ ] Spark SQL — Spark SQL (Structured Queries on Apache Spark)
 - [ ] SQLite — SQLite (Embedded SQL Database)
 - [ ] PostgreSQL — PostgreSQL (Open-source Relational Database)
 - [ ] MongoDB — MongoDB (NoSQL Document Database)
 - [ ] Cassandra — Apache Cassandra (Distributed NoSQL Database)
+- [ ] Python — Python (Programming Language)
+- [ ] Dbt — dbt (data build tool)
 - [ ] Hadoop — Apache Hadoop (Distributed Storage & Batch Processing Framework)
-- [ ] Excel — Microsoft Excel
-- [ ] Synapse — Azure Synapse Analytics
-- [ ] Power BI — Microsoft Power BI
-- [ ] Snowflake — Snowflake Data Cloud
-- [ ] Spark SQL — Spark SQL (Structured Queries on Apache Spark)
+- [ ] Databricks — Azure Databricks (Databricks Unified Analytics Platform)
+- [ ] PySpark — Apache Spark Python API (PySpark)
+- [ ] Delta Lake — Delta Lake (Open-source Storage Layer)
 - [ ] Spark ML — Apache Spark MLlib (Machine Learning Library)
 - [ ] Spark Streaming — Apache Spark Streaming (Real-Time Data Processing)
-- [ ] Linux — GNU/Linux (Free and open-source Unix-like operating system)
+- [ ] Snowflake — Snowflake Data Cloud
+- [ ] Synapse — Azure Synapse Analytics
+- [ ] Data Lake — Azure Data Lake Storage Gen 2
+- [ ] Kafka — Apache Kafka
+- [ ] Data Factory — Azure Data Factory
+- [ ] Apache Airflow — Apache Airflow
+- [ ] Terraform — HashiCorp Terraform
 - [ ] Docker — Docker Engine (Containerization Platform)
+- [ ] Linux — GNU/Linux (Free and open-source Unix-like operating system)
+- [ ] GitHub Actions — GitHub Actions (CI/CD Workflows)
+- [ ] Azure Monitor — Azure Monitor
+- [ ] Excel — Microsoft Excel
+- [ ] Power BI — Microsoft Power BI
+- [ ] Google Looker Studio — Google Looker Studio (Cloud-based BI and Dashboarding)
+- [ ] IBM Cognos Analytics — IBM Cognos Analytics (Enterprise BI and Reporting Tool)
+
 
 > [!NOTE]  
 > Some tools and technologies listed above aren't included in the roadmap below, but they are niche and still necessary.
