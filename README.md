@@ -5,7 +5,7 @@
 - [ ] Python stack: pandas, NumPy
 - [ ] Total estimated cost for courses & certifications: $245
 
-## 🤖Core Data Engineering Stack (Azure)
+## 🤖 Core Data Engineering Stack (Azure)
 
 - [ ] SQL — Structured Query Language (SQL)
 - [ ] Data Factory — Azure Data Factory
