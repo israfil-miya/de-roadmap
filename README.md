@@ -21,11 +21,15 @@
 - [ ] SQLite — SQLite (Embedded SQL Database)
 - [ ] PostgreSQL — PostgreSQL (Open-source Relational Database)
 - [ ] MongoDB — MongoDB (NoSQL Document Database)
+- [ ] Cassandra — Apache Cassandra (Distributed NoSQL Database)
+- [ ] Hadoop — Apache Hadoop (Distributed Storage & Batch Processing Framework)
 - [ ] Excel — Microsoft Excel
 - [ ] Synapse — Azure Synapse Analytics
 - [ ] Power BI — Microsoft Power BI
 - [ ] Snowflake — Snowflake Data Cloud
 - [ ] Spark SQL — Spark SQL (Structured Queries on Apache Spark)
+- [ ] Spark ML — Apache Spark MLlib (Machine Learning Library)
+- [ ] Spark Streaming — Apache Spark Streaming (Real-Time Data Processing)
 - [ ] Linux — GNU/Linux (Free and open-source Unix-like operating system)
 - [ ] Docker — Docker Engine (Containerization Platform)
 
